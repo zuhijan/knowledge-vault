@@ -17,10 +17,9 @@
 - для тем: `shopping`, `home`, `communication`
 - для грамматики: `ser-vs-estar`, `presente`
 
-### Всего слов  
-  
-```dataview  
-TABLE w.word, w.translation_ru  
-FROM "Portuguese"  
-FLATTEN words as w  
+
+```dataview
+TABLE length(words) as "Всего слов"
+FROM "languages/portuguese"
+WHERE file.name = "WordsDataview"
 ```
