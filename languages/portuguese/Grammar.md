@@ -1,4 +1,3 @@
-# Grammar
 
 ```yaml
 grammar:

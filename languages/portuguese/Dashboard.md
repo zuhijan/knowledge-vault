@@ -16,3 +16,11 @@
 - для фраз: `falar_1`, `falar_2`, `mesa_1`
 - для тем: `shopping`, `home`, `communication`
 - для грамматики: `ser-vs-estar`, `presente`
+
+### Всего слов  
+  
+```dataview  
+TABLE w.word, w.translation_ru  
+FROM "Portuguese"  
+FLATTEN words as w  
+```
