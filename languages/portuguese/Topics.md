@@ -36,3 +36,32 @@ topics:
   - id: shopping
     title_ru: Покупки
     description: Покупать товары, базовые ситуации магазина
+
+  - id: countries
+    title_ru: Страны и национальность
+    description: Названия стран, происхождение, откуда человек
+
+  - id: time
+    title_ru: Время и даты
+    description: Завтра, сегодня, вчера, дни недели и время
+
+  - id: professions
+    title_ru: Профессии
+    description: Работа, специальности, кем работает человек
+
+  - id: family
+    title_ru: Семейное положение
+    description: Женат, холост, в разводе
+
+  - id: places
+    title_ru: Места
+    description: Где находится человек: дома, на улице, на работе
+
+  - id: state
+    title_ru: Состояние и характер
+    description: Усталый, счастливый, грустный, приятный
+
+  - id: appearance
+    title_ru: Внешность
+    description: Рост, вес, привлекательность
+

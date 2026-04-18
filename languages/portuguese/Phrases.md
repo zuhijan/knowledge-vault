@@ -162,3 +162,118 @@ phrases:
     translation_ru: Чмоки-чмоки!
     word_ids: []
     topic_ids: [farewell]
+
+  - id: de_onde_e_o_senhor
+    phrase: De onde é o Senhor?
+    translation_ru: Откуда Вы?
+    word_ids: []
+    topic_ids: [introduction, countries]
+
+  - id: ate_amanha
+    phrase: Até amanhã!
+    translation_ru: До завтра!
+    word_ids: []
+    topic_ids: [farewell, time]
+
+  - id: quem_e_ela
+    phrase: Quem é ela?
+    translation_ru: Кто она?
+    word_ids: [quem]
+    topic_ids: [communication]
+
+  - id: sou_da_russia
+    phrase: Eu sou da Russia.
+    translation_ru: Я из России.
+    word_ids: [russia]
+    topic_ids: [introduction, countries]
+
+  - id: sou_de_portugal
+    phrase: Eu sou de Portugal.
+    translation_ru: Я из Португалии.
+    word_ids: [portugal]
+    topic_ids: [introduction, countries]
+
+  - id: sou_do_brasil
+    phrase: Eu sou do Brasil.
+    translation_ru: Я из Бразилии.
+    word_ids: [brasil]
+    topic_ids: [introduction, countries]
+
+  - id: sou_da_franca
+    phrase: Eu sou da França.
+    translation_ru: Я из Франции.
+    word_ids: [franca]
+    topic_ids: [introduction, countries]
+
+  - id: sou_da_espanha
+    phrase: Eu sou da Espanha.
+    translation_ru: Я из Испании.
+    word_ids: [espanha]
+    topic_ids: [introduction, countries]
+
+  - id: estou_em_casa
+    phrase: Estou em casa.
+    translation_ru: Я дома.
+    word_ids: [casa]
+    topic_ids: [places]
+
+  - id: estou_na_rua
+    phrase: Estou na rua.
+    translation_ru: Я на улице.
+    word_ids: [rua]
+    topic_ids: [places]
+
+  - id: estou_no_trabalho
+    phrase: Estou no trabalho.
+    translation_ru: Я на работе.
+    word_ids: [trabalho]
+    topic_ids: [places, work]
+
+  - id: estou_no_supermercado
+    phrase: Estou no supermercado.
+    translation_ru: Я в супермаркете.
+    word_ids: [supermercado]
+    topic_ids: [places, shopping]
+
+  - id: estou_no_carro
+    phrase: Estou no carro.
+    translation_ru: Я в машине.
+    word_ids: [carro]
+    topic_ids: [places, transport]
+
+  - id: estou_cansado
+    phrase: Estou cansado.
+    translation_ru: Я устал.
+    word_ids: [cansado]
+    topic_ids: [state]
+
+  - id: estou_ocupado
+    phrase: Estou ocupado.
+    translation_ru: Я занят.
+    word_ids: [ocupado]
+    topic_ids: [state]
+
+  - id: ele_e_alto
+    phrase: Ele é alto.
+    translation_ru: Он высокий.
+    word_ids: [alto]
+    topic_ids: [appearance]
+
+  - id: ela_e_bonita
+    phrase: Ela é bonita.
+    translation_ru: Она красивая.
+    word_ids: [bonito]
+    topic_ids: [appearance]
+
+  - id: sou_estudante
+    phrase: Sou estudante.
+    translation_ru: Я студент.
+    word_ids: [estudante]
+    topic_ids: [professions]
+
+  - id: sou_professor
+    phrase: Sou professor.
+    translation_ru: Я учитель.
+    word_ids: [professor]
+    topic_ids: [professions]
+    
