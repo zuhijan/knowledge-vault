@@ -308,3 +308,24 @@ phrases:
     word_ids: [escola]
     topic_ids: [education]
     grammar_ids: [contractions_de]
+    
+  - id: tenho_irmao
+    phrase: Eu tenho o irmão.
+    translation_ru: У меня есть брат.
+    word_ids: [ter, irmao]
+    topic_ids: [family]
+    grammar_ids: [verb_ter]
+
+  - id: estou_com_frio
+    phrase: Eu estou com frio.
+    translation_ru: Мне холодно.
+    word_ids: [frio]
+    topic_ids: [health_state]
+    grammar_ids: [estar_com]
+
+  - id: tenho_de_ligar
+    phrase: Eu tenho de ligar ao meu irmão.
+    translation_ru: Я должен позвонить своему брату.
+    word_ids: [ter, ligar, irmao]
+    topic_ids: [family, communication]
+    grammar_ids: [ter_de]

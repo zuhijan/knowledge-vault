@@ -31,16 +31,6 @@ words:
     phrase_ids: []
     notes: ""
 
-  - id: ligar
-    word: ligar
-    translation_ru: звонить, включать
-    type: verb
-    level: A1
-    status: new
-    topic_ids: [communication]
-    phrase_ids: []
-    notes: ""
-
   - id: trabalhar
     word: trabalhar
     translation_ru: работать
@@ -521,3 +511,294 @@ words:
     topic_ids: [places, transport]
     phrase_ids: []
     notes: ""
+
+  - id: pai
+    word: pai
+    translation_ru: папа
+    type: noun
+    gender: masculine
+    level: A1
+    status: new
+    topic_ids: [family]
+    phrase_ids: []
+
+  - id: mae
+    word: mãe
+    translation_ru: мама
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [family]
+    phrase_ids: []
+
+  - id: marido
+    word: marido
+    translation_ru: муж
+    type: noun
+    gender: masculine
+    level: A1
+    status: new
+    topic_ids: [family]
+    phrase_ids: []
+
+  - id: mulher
+    word: mulher
+    translation_ru: жена, женщина
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [family]
+    phrase_ids: []
+
+  - id: namorado
+    word: namorado
+    translation_ru: молодой человек
+    type: noun
+    gender_forms: [namorado, namorada]
+    level: A1
+    status: new
+    topic_ids: [family]
+    phrase_ids: []
+
+  - id: filho
+    word: filho
+    translation_ru: сын
+    type: noun
+    gender_forms: [filho, filha]
+    level: A1
+    status: new
+    topic_ids: [family]
+    phrase_ids: []
+
+  - id: irmao
+    word: irmão
+    translation_ru: брат
+    type: noun
+    gender_forms: [irmão, irmã]
+    level: A1
+    status: new
+    topic_ids: [family]
+    phrase_ids: [tenho_irmao, ligar_ao_meu_irmao]
+
+  - id: avo
+    word: avô
+    translation_ru: дедушка
+    type: noun
+    gender_forms: [avô, avó]
+    level: A1
+    status: new
+    topic_ids: [family]
+    phrase_ids: []
+
+  - id: dinheiro
+    word: dinheiro
+    translation_ru: деньги
+    type: noun
+    gender: masculine
+    level: A1
+    status: new
+    topic_ids: [personal_items]
+    phrase_ids: []
+
+  - id: telemovel
+    word: telemóvel
+    translation_ru: телефон
+    type: noun
+    gender: masculine
+    plural: telemóveis
+    level: A1
+    status: new
+    topic_ids: [personal_items]
+    phrase_ids: []
+
+  - id: chave
+    word: chave
+    translation_ru: ключ
+    type: noun
+    gender: feminine
+    plural: chaves
+    level: A1
+    status: new
+    topic_ids: [personal_items]
+    phrase_ids: []
+
+  - id: carteira
+    word: carteira
+    translation_ru: кошелёк
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [personal_items]
+    phrase_ids: []
+
+  - id: mochila
+    word: mochila
+    translation_ru: рюкзак
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [personal_items]
+    phrase_ids: []
+
+  - id: computador
+    word: computador
+    translation_ru: компьютер
+    type: noun
+    gender: masculine
+    level: A1
+    status: new
+    topic_ids: [personal_items, technology]
+    phrase_ids: []
+
+  - id: oculos
+    word: óculos
+    translation_ru: очки
+    type: noun
+    gender: plural
+    level: A1
+    status: new
+    topic_ids: [personal_items]
+    phrase_ids: []
+
+  - id: documento
+    word: documento
+    translation_ru: документ
+    type: noun
+    gender: masculine
+    plural: documentos
+    level: A1
+    status: new
+    topic_ids: [personal_items]
+    phrase_ids: []
+
+  - id: apartamento
+    word: apartamento
+    translation_ru: квартира
+    type: noun
+    gender: masculine
+    level: A1
+    status: new
+    topic_ids: [personal_items, places]
+    phrase_ids: []
+
+  - id: fome
+    word: fome
+    translation_ru: голод
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+
+  - id: sede
+    word: sede
+    translation_ru: жажда
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+
+  - id: medo
+    word: medo
+    translation_ru: страх
+    type: noun
+    gender: masculine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+
+  - id: frio
+    word: frio
+    translation_ru: холод
+    type: noun
+    gender: masculine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: [estou_com_frio]
+
+  - id: calor
+    word: calor
+    translation_ru: жара
+    type: noun
+    gender: masculine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+
+  - id: sono
+    word: sono
+    translation_ru: сон, сонливость
+    type: noun
+    gender: masculine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+
+  - id: dor
+    word: dor
+    translation_ru: боль
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+
+  - id: saudade
+    word: saudade
+    translation_ru: тоска, грусть, скучание
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+
+  - id: febre
+    word: febre
+    translation_ru: жар, температура
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+
+  - id: energia
+    word: energia
+    translation_ru: энергия
+    type: noun
+    gender: feminine
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+
+  - id: ter
+    word: ter
+    translation_ru: иметь
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: [tenho_irmao, tenho_de_ligar]
+
+  - id: ligar
+    word: ligar
+    translation_ru: звонить
+    type: verb
+    level: A1
+    status: known
+    topic_ids: [verbs_basic, communication]
+    phrase_ids: [tenho_de_ligar]

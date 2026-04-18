@@ -65,3 +65,27 @@ topics:
     title_ru: Внешность
     description: Рост, вес, привлекательность
 
+  - id: family
+    title_ru: Семья
+    description: Родственники, отношения, члены семьи
+
+  - id: personal_items
+    title_ru: Личные вещи
+    description: Предметы повседневного использования
+
+  - id: health_state
+    title_ru: Состояние и здоровье
+    description: Голод, жажда, холод, страх, боль, энергия
+
+  - id: verbs_basic
+    title_ru: Базовые глаголы
+    description: Часто используемые глаголы начального уровня
+
+  - id: technology
+    title_ru: Техника
+    description: Компьютеры, телефоны и устройства
+
+  - id: transport
+    title_ru: Транспорт
+    description: Машины и перемещение
+
