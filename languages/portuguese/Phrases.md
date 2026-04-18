@@ -181,22 +181,10 @@ phrases:
     word_ids: [quem]
     topic_ids: [communication]
 
-  - id: sou_da_russia
-    phrase: Eu sou da Russia.
-    translation_ru: Я из России.
-    word_ids: [russia]
-    topic_ids: [introduction, countries]
-
   - id: sou_de_portugal
     phrase: Eu sou de Portugal.
     translation_ru: Я из Португалии.
     word_ids: [portugal]
-    topic_ids: [introduction, countries]
-
-  - id: sou_do_brasil
-    phrase: Eu sou do Brasil.
-    translation_ru: Я из Бразилии.
-    word_ids: [brasil]
     topic_ids: [introduction, countries]
 
   - id: sou_da_franca
@@ -216,18 +204,6 @@ phrases:
     translation_ru: Я дома.
     word_ids: [casa]
     topic_ids: [places]
-
-  - id: estou_na_rua
-    phrase: Estou na rua.
-    translation_ru: Я на улице.
-    word_ids: [rua]
-    topic_ids: [places]
-
-  - id: estou_no_trabalho
-    phrase: Estou no trabalho.
-    translation_ru: Я на работе.
-    word_ids: [trabalho]
-    topic_ids: [places, work]
 
   - id: estou_no_supermercado
     phrase: Estou no supermercado.
@@ -277,3 +253,58 @@ phrases:
     word_ids: [professor]
     topic_ids: [professions]
     
+  - id: estou_no_trabalho
+    phrase: Estou no trabalho.
+    translation_ru: Я на работе.
+    word_ids: [trabalho]
+    topic_ids: [places, work]
+    grammar_ids: [contractions_em]
+
+  - id: estou_na_rua
+    phrase: Estou na rua.
+    translation_ru: Я на улице.
+    word_ids: [rua]
+    topic_ids: [places]
+    grammar_ids: [contractions_em]
+
+  - id: estamos_nos_estados_unidos
+    phrase: Estamos nos Estados Unidos.
+    translation_ru: Мы в Соединённых Штатах.
+    word_ids: [estados_unidos]
+    topic_ids: [countries, places]
+    grammar_ids: [contractions_em]
+
+  - id: estamos_nas_lojas
+    phrase: Estamos nas lojas.
+    translation_ru: Мы в магазинах.
+    word_ids: [loja]
+    topic_ids: [shopping, places]
+    grammar_ids: [contractions_em]
+
+  - id: sou_do_brasil
+    phrase: Eu sou do Brasil.
+    translation_ru: Я из Бразилии.
+    word_ids: [brasil]
+    topic_ids: [countries, introduction]
+    grammar_ids: [contractions_de]
+
+  - id: sou_da_russia
+    phrase: Eu sou da Russia.
+    translation_ru: Я из России.
+    word_ids: [russia]
+    topic_ids: [countries, introduction]
+    grammar_ids: [contractions_de]
+
+  - id: vem_dos_estados_unidos
+    phrase: Ele vem dos Estados Unidos.
+    translation_ru: Он из Соединённых Штатов.
+    word_ids: [estados_unidos]
+    topic_ids: [countries]
+    grammar_ids: [contractions_de]
+
+  - id: ela_e_das_escolas_publicas
+    phrase: Ela é das escolas públicas.
+    translation_ru: Она из государственных школ.
+    word_ids: [escola]
+    topic_ids: [education]
+    grammar_ids: [contractions_de]
