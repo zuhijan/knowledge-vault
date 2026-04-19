@@ -89,3 +89,11 @@ topics:
     title_ru: Транспорт
     description: Машины и перемещение
 
+  - id: numbers
+    title_ru: Числа
+    description: Количественные числительные и счёт
+
+  - id: movement
+    title_ru: Движение
+    description: Приходить, уходить, следовать, брать с собой
+

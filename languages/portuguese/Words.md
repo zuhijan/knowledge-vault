@@ -802,3 +802,354 @@ words:
     status: known
     topic_ids: [verbs_basic, communication]
     phrase_ids: [tenho_de_ligar]
+
+  - id: fazer
+    word: fazer
+    translation_ru: делать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: dizer
+    word: dizer
+    translation_ru: говорить, сказать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [communication, verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: ver
+    word: ver
+    translation_ru: видеть
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: dar
+    word: dar
+    translation_ru: давать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: saber
+    word: saber
+    translation_ru: знать, уметь, знать факт
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: querer
+    word: querer
+    translation_ru: хотеть
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: chegar
+    word: chegar
+    translation_ru: приходить, приезжать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [movement]
+    phrase_ids: []
+    notes: ""
+
+  - id: passar
+    word: passar
+    translation_ru: проходить, проводить время
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: ficar
+    word: ficar
+    translation_ru: оставаться, становиться
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: deixar
+    word: deixar
+    translation_ru: оставлять, позволять
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: encontrar
+    word: encontrar
+    translation_ru: находить
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: pensar
+    word: pensar
+    translation_ru: думать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: levar
+    word: levar
+    translation_ru: нести, брать с собой
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [movement]
+    phrase_ids: []
+    notes: ""
+
+  - id: seguir
+    word: seguir
+    translation_ru: следовать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [movement]
+    phrase_ids: []
+    notes: ""
+
+  - id: sentir
+    word: sentir
+    translation_ru: чувствовать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [health_state]
+    phrase_ids: []
+    notes: ""
+
+  - id: abrir
+    word: abrir
+    translation_ru: открывать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [daily-life]
+    phrase_ids: []
+    notes: ""
+
+  - id: fechar
+    word: fechar
+    translation_ru: закрывать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [daily-life]
+    phrase_ids: []
+    notes: ""
+
+  - id: comecar
+    word: começar
+    translation_ru: начинать
+    type: verb
+    level: A1
+    status: new
+    topic_ids: [verbs_basic]
+    phrase_ids: []
+    notes: ""
+
+  - id: dez
+    word: dez
+    translation_ru: десять
+    type: number
+    value: 10
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: vinte
+    word: vinte
+    translation_ru: двадцать
+    type: number
+    value: 20
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: trinta
+    word: trinta
+    translation_ru: тридцать
+    type: number
+    value: 30
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: quarenta
+    word: quarenta
+    translation_ru: сорок
+    type: number
+    value: 40
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: cinquenta
+    word: cinquenta
+    translation_ru: пятьдесят
+    type: number
+    value: 50
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: sessenta
+    word: sessenta
+    translation_ru: шестьдесят
+    type: number
+    value: 60
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: setenta
+    word: setenta
+    translation_ru: семьдесят
+    type: number
+    value: 70
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: oitenta
+    word: oitenta
+    translation_ru: восемьдесят
+    type: number
+    value: 80
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: noventa
+    word: noventa
+    translation_ru: девяносто
+    type: number
+    value: 90
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: cem
+    word: cem
+    translation_ru: сто
+    type: number
+    value: 100
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: duzentos
+    word: duzentos
+    translation_ru: двести
+    type: number
+    value: 200
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: trezentos
+    word: trezentos
+    translation_ru: триста
+    type: number
+    value: 300
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: quatrocentos
+    word: quatrocentos
+    translation_ru: четыреста
+    type: number
+    value: 400
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: quinhentos
+    word: quinhentos
+    translation_ru: пятьсот
+    type: number
+    value: 500
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: seiscentos
+    word: seiscentos
+    translation_ru: шестьсот
+    type: number
+    value: 600
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: setecentos
+    word: setecentos
+    translation_ru: семьсот
+    type: number
+    value: 700
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: oitocentos
+    word: oitocentos
+    translation_ru: восемьсот
+    type: number
+    value: 800
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: novecentos
+    word: novecentos
+    translation_ru: девятьсот
+    type: number
+    value: 900
+    level: A1
+    status: new
+    topic_ids: [numbers]
+
+  - id: mil
+    word: mil
+    translation_ru: тысяча
+    type: number
+    value: 1000
+    level: A1
+    status: new
+    topic_ids: [numbers]
